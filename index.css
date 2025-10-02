@@ -127,3 +127,12 @@
       opacity: 1;
 
 }
+
+@media(max-width:600px){
+    .sidebar_menu{
+        height: 95vh;
+    }
+}
+ 
+
+
